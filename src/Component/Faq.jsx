@@ -1,4 +1,4 @@
-import FAQCard from "./FaqCard";
+import FAQCard from "./faqCard";
 
 export default function Faq() {
   return (

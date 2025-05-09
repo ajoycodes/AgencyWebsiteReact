@@ -1,9 +1,9 @@
 import logo from "../assets/logo.svg";
 import FooterLink from "./footerLink";
 import Dribbble from "./Icons/dribbble";
-import Fb from "./Icons/Fb";
-import Github from "./Icons/Github";
-import Insta from "./Icons/Insta";
+import Fb from "./Icons/fb";
+import Github from "./Icons/github";
+import Insta from "./Icons/instagram";
 import Twitter from "./Icons/twitter";
 export default function Footer() {
   return (
