@@ -1,9 +1,9 @@
-import AirBnb from "./Icons/airbnb";
-import Google from "./Icons/google";
-import Mailchimp from "./Icons/mailchimp";
-import Mashable from "./Icons/mesh";
-import Microsoft from "./Icons/microsoft";
-import Spotify from "./Icons/spotify";
+import AirBnb from "./Icons/AirBnb";
+import Google from "./Icons/Google";
+import Mailchimp from "./Icons/Mailchimp";
+import Mashable from "./Icons/Mashable";
+import Microsoft from "./Icons/Microsoft";
+import Spotify from "./Icons/Spotify";
 
 export default function Companies() {
   return (
