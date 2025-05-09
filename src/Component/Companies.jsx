@@ -1,4 +1,4 @@
-import AirBnb from "./Icons/Airbnb";
+import AirBnb from "./Icons/airbnb";
 import Google from "./Icons/Google";
 import Mailchimp from "./Icons/Mailchimp";
 import Mashable from "./Icons/Mesh";
