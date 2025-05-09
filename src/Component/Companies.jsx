@@ -1,7 +1,7 @@
-import AirBnb from "./Icons/airbnb";
+import AirBnb from "./Icons/Airbnb";
 import Google from "./Icons/Google";
 import Mailchimp from "./Icons/Mailchimp";
-import Mashable from "./Icons/mesh";
+import Mashable from "./Icons/Mesh";
 import Microsoft from "./Icons/Microsoft";
 import Spotify from "./Icons/Spotify";
 

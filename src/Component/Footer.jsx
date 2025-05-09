@@ -1,6 +1,6 @@
 import logo from "../assets/logo.svg";
 import FooterLink from "./footerLink";
-import Dribbble from "./Icons/Dribbble";
+import Dribbble from "./Icons/dribbble";
 import Fb from "./Icons/Fb";
 import Github from "./Icons/Github";
 import Insta from "./Icons/Insta";
